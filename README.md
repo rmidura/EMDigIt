@@ -33,4 +33,6 @@ Data Visualization Designer: Michael Stamper
 **Acknowledgments**  
 Supported by the National Endowment for the Humanities (NEH). Views expressed do not necessarily reflect those of NEH.  
 
+To learn more about this project, please visit - emdigit.org
+
 **© 2023 Rachel Midura. All rights reserved.**

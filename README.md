@@ -35,4 +35,4 @@ Supported by the National Endowment for the Humanities (NEH). Views expressed do
 
 To learn more about this project, please visit - [emdigit.org](emdigit.org)
 
-**© 2023 Rachel Midura. All rights reserved.**
+**© 2024 Rachel Midura. All rights reserved.**

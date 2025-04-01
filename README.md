@@ -36,6 +36,6 @@ Github Repository: Sai Chaitanya Davuluri
 **Acknowledgments**  
 Supported by the National Endowment for the Humanities (NEH). Views expressed do not necessarily reflect those of NEH.  
 
-To learn more about this project, please visit - [EMDigIt.org](EMDigIt.org)
+To learn more about this project, please visit - [https://emdigit.org](EMDigIt.org)
 
 **© 2024 Rachel Midura. All rights reserved.**

@@ -29,12 +29,12 @@ The project began during Rachel Midura's time as a digital humanities research f
 - Expand functionality for analyzing historical travel costs, modes, and spatial relationships.  
 
 **Credits**  
-Project Director: Rachel Midura  
-Data Visualization Designer: Michael Stamper
-Github Repository: Sai Chaitanya Davuluri
+- Project Director: Rachel Midura  
+- Data Visualization Designer: Michael Stamper
+- Code Optimization and Github Repository: Sai Chaitanya Davuluri
 
 **Acknowledgments**  
-Supported by the National Endowment for the Humanities (NEH). Views expressed do not necessarily reflect those of NEH.  
+Supported by the National Endowment for the Humanities (NEH). Views expressed do not necessarily reflect those of NEH. Find out more at www.neh.gov.
 
 To learn more about this project, please visit - https://emdigit.org
 

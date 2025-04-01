@@ -15,12 +15,14 @@ The project began during Rachel Midura's time as a digital humanities research f
 
 **Milestones**  
 - **Spring 2023**: Awarded a Virginia Tech Digital Humanities Library Collaboration Grant to refine workflows and create platform wireframes.  
-- **August 2023**: Received a Digital Humanities Advancement Grant from the National Endowment for the Humanities to support workshops in Spring and Summer 2024.  
+- **August 2023**: Received a Digital Humanities Advancement Grant from the National Endowment for the Humanities to support workshops in Spring and Summer 2024.
+- **August 2023**: Hosted Early Modern Digital Itineraries culminating workshop and in-person conference in conjunction with DH2024 in Arlington, Virginia. 
+- **April 2025**: Published EMDigIt white paper and initial project code
 
 **Technologies**  
+- Transkribus for handwritten text recognition 
 - Python Notebooks for data processing  
-- Geospatial tools for mapping and reconciliation  
-- Transkribus for handwritten text recognition  
+- Geospatial tools (Recogito, ArcGIS) for mapping and reconciliation
 
 **Future Goals**  
 - Develop an interactive web-based platform for mapping and exploring early modern itineraries.  
@@ -28,7 +30,8 @@ The project began during Rachel Midura's time as a digital humanities research f
 
 **Credits**  
 Project Director: Rachel Midura  
-Data Visualization Designer: Michael Stamper  
+Data Visualization Designer: Michael Stamper
+Github Repository: Sai Chaitanya Davuluri
 
 **Acknowledgments**  
 Supported by the National Endowment for the Humanities (NEH). Views expressed do not necessarily reflect those of NEH.  

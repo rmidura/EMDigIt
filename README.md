@@ -1,3 +1,7 @@
+
+![Github Logo](https://github.com/user-attachments/assets/793ff43a-d91b-4064-aef1-c729d5add254)
+
+
 # EMDigIt
 EMDigIt (Early Modern Digital Itineraries) explores spatial data in early modern travel guides. It processes route details, stops, and points of interest from historic itinerary books using Python, mapping tools, and text recognition. The project aims to visualize journeys and build an interactive mapping platform.
 

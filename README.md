@@ -22,6 +22,7 @@ The project began during Rachel Midura's time as a digital humanities research f
 - **August 2023**: Received a Digital Humanities Advancement Grant from the National Endowment for the Humanities to support workshops in Spring and Summer 2024.
 - **August 2023**: Hosted Early Modern Digital Itineraries culminating workshop and in-person conference in conjunction with DH2024 in Arlington, Virginia. 
 - **April 2025**: Published EMDigIt white paper and initial project code
+- **December 2025**: Published [Early Modern Digital Itineraries: The Italian Core Set, *Digitalia*, V.20 N.2 (2025)](https://digitalia.cultura.gov.it/article/view/3112)
 
 **Technologies**  
 - Transkribus for handwritten text recognition 
@@ -34,12 +35,17 @@ The project began during Rachel Midura's time as a digital humanities research f
 
 **Credits**  
 - Project Director: Rachel Midura  
-- Data Visualization Designer: Michael Stamper
-- Code Optimization and Github Repository: Sai Chaitanya Davuluri
+- Data Visualization Consultation: Michael Stamper, Jo Wolf, & Jesse Sadler
+- Mapping Consultation: Stewart Scales
+- Code Optimization and Initial Github Repository: Sai Chaitanya Davuluri
+- Research Assistants: Sidant Dev, Savannah Flanagan, Kaylen Griles, Antonio Pinto Guardia, Mayson Keyser, Evan Kim, Matthew List, Elliot Miller, Tanvi Pedireddi, Alex Pomper, Benjamin Prystalski, Hannah Schetselaar, Friehom Yemane, Samantha Zheng
+- Additional Support: Institute for Society, Culture, and Environment (VT); Center for the Humanities (VT); Virginia Tech Libraries; 
+Virginia Tech History Department; Stanford History Department; Stanford Center for Spatial and Textual Analysis (CESTA); Folgers Shakespeare Institute
+
 
 **Acknowledgments**  
 Supported by the National Endowment for the Humanities (NEH). Views expressed do not necessarily reflect those of NEH. Find out more at www.neh.gov.
 
 To learn more about this project, please visit - https://emdigit.org
 
-**© 2024 Rachel Midura. All rights reserved.**
+**© 2026 Rachel Midura. All rights reserved.**
